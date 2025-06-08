@@ -2,7 +2,7 @@
 
 A simple yet elegant **XP & Leveling System** for Discord bots using `discord.js` and a lightweight database. Designed to provide users with an engaging ranking experience through visually appealing rank cards and leaderboard displays.
 
-![Level Preview](./db9a5cdd-6fa1-471e-bdab-eaab160088e6.png)
+![image](https://github.com/user-attachments/assets/613e1c71-8a8b-4f83-82d7-e66f7fe9730f)
 
 ---
 
@@ -62,7 +62,7 @@ Rank cards and leaderboards are automatically generated using dynamic image rend
 ## 🖼️ Screenshots
 
 ### 🔹 Rank Card Example
-<img src="./db9a5cdd-6fa1-471e-bdab-eaab160088e6.png" alt="Rank Card Preview" width="600"/>
+![image](https://github.com/user-attachments/assets/fa0cb501-c9f6-4995-8983-835279d876bf)
 
 ---
 
